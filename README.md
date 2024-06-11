@@ -1,4 +1,5 @@
 # Universidade
+Este é um exemplo prático da criação de um banco de dados relacional para uma universidade fictícia.
 
 ## Modelo Lógico
 
